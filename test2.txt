@@ -1,2 +1,3 @@
 third file in the repository.
 changes in third file using git GUI.
+failed trying again.
